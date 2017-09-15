@@ -1,0 +1,1001 @@
+id;city;state
+1;NewYork;New York
+2;LosAngeles;California
+3;Chicago;Illinois
+4;Houston;Texas
+5;Philadelphia;Pennsylvania
+6;Phoenix;Arizona
+7;SanAntonio;Texas
+8;SanDiego;California
+9;Dallas;Texas
+10;SanJose;California
+11;Austin;Texas
+12;Jacksonville;Florida
+13;SanFrancisco;California
+14;Indianapolis;Indiana
+15;Columbus;Ohio
+16;FortWorth;Texas
+17;Charlotte;North Carolina
+18;Seattle;Washington
+19;Denver;Colorado
+20;ElPaso;Texas
+21;Detroit;Michigan
+22;Washington;District of Columbia
+23;Boston;Massachusetts
+24;Memphis;Tennessee
+25;Nashville-Davidson;Tennessee
+26;Portland;Oregon
+27;OklahomaCity;Oklahoma
+28;LasVegas;Nevada
+29;Baltimore;Maryland
+30;Louisville/JeffersonCounty;Kentucky
+31;Milwaukee;Wisconsin
+32;Albuquerque;New Mexico
+33;Tucson;Arizona
+34;Fresno;California
+35;Sacramento;California
+36;KansasCity;Missouri
+37;LongBeach;California
+38;Mesa;Arizona
+39;Atlanta;Georgia
+40;ColoradoSprings;Colorado
+41;VirginiaBeach;Virginia
+42;Raleigh;North Carolina
+43;Omaha;Nebraska
+44;Miami;Florida
+45;Oakland;California
+46;Minneapolis;Minnesota
+47;Tulsa;Oklahoma
+48;Wichita;Kansas
+49;NewOrleans;Louisiana
+50;Arlington;Texas
+51;Cleveland;Ohio
+52;Bakersfield;California
+53;Tampa;Florida
+54;Aurora;Colorado
+55;Honolulu;Hawaii
+56;Anaheim;California
+57;SantaAna;California
+58;CorpusChristi;Texas
+59;Riverside;California
+60;St.Louis;Missouri
+61;Lexington-Fayette;Kentucky
+62;Stockton;California
+63;Pittsburgh;Pennsylvania
+64;St.Paul;Minnesota
+65;Anchorage;Alaska
+66;Cincinnati;Ohio
+67;Henderson;Nevada
+68;Greensboro;North Carolina
+69;Plano;Texas
+70;Newark;New Jersey
+71;Toledo;Ohio
+72;Lincoln;Nebraska
+73;Orlando;Florida
+74;ChulaVista;California
+75;JerseyCity;New Jersey
+76;Chandler;Arizona
+77;FortWayne;Indiana
+78;Buffalo;New York
+79;Durham;North Carolina
+80;St.Petersburg;Florida
+81;Irvine;California
+82;Laredo;Texas
+83;Lubbock;Texas
+84;Madison;Wisconsin
+85;Gilbert;Arizona
+86;Norfolk;Virginia
+87;Reno;Nevada
+88;Winston-Salem;North Carolina
+89;Glendale;Arizona
+90;Hialeah;Florida
+91;Garland;Texas
+92;Scottsdale;Arizona
+93;Irving;Texas
+94;Chesapeake;Virginia
+95;NorthLasVegas;Nevada
+96;Fremont;California
+97;BatonRouge;Louisiana
+98;Richmond;Virginia
+99;BoiseCity;Idaho
+100;SanBernardino;California
+101;Spokane;Washington
+102;Birmingham;Alabama
+103;Modesto;California
+104;DesMoines;Iowa
+105;Rochester;New York
+106;Tacoma;Washington
+107;Fontana;California
+108;Oxnard;California
+109;MorenoValley;California
+110;Fayetteville;North Carolina
+111;HuntingtonBeach;California
+112;Yonkers;New York
+113;Glendale;California
+114;Aurora;Illinois
+115;Montgomery;Alabama
+116;Columbus;Georgia
+117;Amarillo;Texas
+118;LittleRock;Arkansas
+119;Akron;Ohio
+120;Shreveport;Louisiana
+121;Augusta-RichmondCounty;Georgia
+122;GrandRapids;Michigan
+123;Mobile;Alabama
+124;SaltLakeCity;Utah
+125;Huntsville;Alabama
+126;Tallahassee;Florida
+127;GrandPrairie;Texas
+128;OverlandPark;Kansas
+129;Knoxville;Tennessee
+130;Worcester;Massachusetts
+131;Brownsville;Texas
+132;NewportNews;Virginia
+133;SantaClarita;California
+134;PortSt.Lucie;Florida
+135;Providence;Rhode Island
+136;FortLauderdale;Florida
+137;Chattanooga;Tennessee
+138;Tempe;Arizona
+139;Oceanside;California
+140;GardenGrove;California
+141;RanchoCucamonga;California
+142;CapeCoral;Florida
+143;SantaRosa;California
+144;Vancouver;Washington
+145;SiouxFalls;South Dakota
+146;Peoria;Arizona
+147;Ontario;California
+148;Jackson;Mississippi
+149;ElkGrove;California
+150;Springfield;Missouri
+151;PembrokePines;Florida
+152;Salem;Oregon
+153;Corona;California
+154;Eugene;Oregon
+155;McKinney;Texas
+156;FortCollins;Colorado
+157;Lancaster;California
+158;Cary;North Carolina
+159;Palmdale;California
+160;Hayward;California
+161;Salinas;California
+162;Frisco;Texas
+163;Springfield;Massachusetts
+164;Pasadena;Texas
+165;Macon-BibbCounty;Georgia
+166;Alexandria;Virginia
+167;Pomona;California
+168;Lakewood;Colorado
+169;Sunnyvale;California
+170;Escondido;California
+171;KansasCity;Kansas
+172;Hollywood;Florida
+173;Clarksville;Tennessee
+174;Torrance;California
+175;Rockford;Illinois
+176;Joliet;Illinois
+177;Paterson;New Jersey
+178;Bridgeport;Connecticut
+179;Naperville;Illinois
+180;Savannah;Georgia
+181;Mesquite;Texas
+182;Syracuse;New York
+183;Pasadena;California
+184;Orange;California
+185;Fullerton;California
+186;Killeen;Texas
+187;Dayton;Ohio
+188;McAllen;Texas
+189;Bellevue;Washington
+190;Miramar;Florida
+191;Hampton;Virginia
+192;WestValleyCity;Utah
+193;Warren;Michigan
+194;Olathe;Kansas
+195;Columbia;South Carolina
+196;Thornton;Colorado
+197;Carrollton;Texas
+198;Midland;Texas
+199;Charleston;South Carolina
+200;Waco;Texas
+201;SterlingHeights;Michigan
+202;Denton;Texas
+203;CedarRapids;Iowa
+204;NewHaven;Connecticut
+205;Roseville;California
+206;Gainesville;Florida
+207;Visalia;California
+208;CoralSprings;Florida
+209;ThousandOaks;California
+210;Elizabeth;New Jersey
+211;Stamford;Connecticut
+212;Concord;California
+213;Surprise;Arizona
+214;Lafayette;Louisiana
+215;Topeka;Kansas
+216;Kent;Washington
+217;SimiValley;California
+218;SantaClara;California
+219;Murfreesboro;Tennessee
+220;Hartford;Connecticut
+221;Athens-ClarkeCounty;Georgia
+222;Victorville;California
+223;Abilene;Texas
+224;Vallejo;California
+225;Berkeley;California
+226;Norman;Oklahoma
+227;Allentown;Pennsylvania
+228;Evansville;Indiana
+229;Columbia;Missouri
+230;Odessa;Texas
+231;Fargo;North Dakota
+232;Beaumont;Texas
+233;Independence;Missouri
+234;AnnArbor;Michigan
+235;ElMonte;California
+236;Springfield;Illinois
+237;RoundRock;Texas
+238;Wilmington;North Carolina
+239;Arvada;Colorado
+240;Provo;Utah
+241;Peoria;Illinois
+242;Lansing;Michigan
+243;Downey;California
+244;Carlsbad;California
+245;CostaMesa;California
+246;MiamiGardens;Florida
+247;Westminster;Colorado
+248;Clearwater;Florida
+249;Fairfield;California
+250;Rochester;Minnesota
+251;Elgin;Illinois
+252;Temecula;California
+253;WestJordan;Utah
+254;Inglewood;California
+255;Richardson;Texas
+256;Lowell;Massachusetts
+257;Gresham;Oregon
+258;Antioch;California
+259;Cambridge;Massachusetts
+260;HighPoint;North Carolina
+261;Billings;Montana
+262;Manchester;New Hampshire
+263;Murrieta;California
+264;Centennial;Colorado
+265;SanBuenaventura(Ventura);California
+266;Richmond;California
+267;Pueblo;Colorado
+268;Pearland;Texas
+269;Waterbury;Connecticut
+270;WestCovina;California
+271;NorthCharleston;South Carolina
+272;Everett;Washington
+273;CollegeStation;Texas
+274;PalmBay;Florida
+275;PompanoBeach;Florida
+276;Boulder;Colorado
+277;Norwalk;California
+278;WestPalmBeach;Florida
+279;BrokenArrow;Oklahoma
+280;DalyCity;California
+281;SandySprings;Georgia
+282;Burbank;California
+283;GreenBay;Wisconsin
+284;SantaMaria;California
+285;WichitaFalls;Texas
+286;Lakeland;Florida
+287;Clovis;California
+288;Lewisville;Texas
+289;Tyler;Texas
+290;ElCajon;California
+291;SanMateo;California
+292;Rialto;California
+293;Davenport;Iowa
+294;Hillsboro;Oregon
+295;LasCruces;New Mexico
+296;SouthBend;Indiana
+297;Vista;California
+298;Greeley;Colorado
+299;Davie;Florida
+300;SanAngelo;Texas
+301;JurupaValley;California
+302;Renton;Washington
+303;Roanoke;Virginia
+304;Kenosha;Wisconsin
+305;Erie;Pennsylvania
+306;Albany;New York
+307;Compton;California
+308;Tuscaloosa;Alabama
+309;LeagueCity;Texas
+310;Flint;Michigan
+311;Allen;Texas
+312;MissionViejo;California
+313;Vacaville;California
+314;Lawton;Oklahoma
+315;Beaverton;Oregon
+316;SouthGate;California
+317;Portsmouth;Virginia
+318;Sparks;Nevada
+319;Brockton;Massachusetts
+320;FederalWay;Washington
+321;Dearborn;Michigan
+322;Lee'sSummit;Missouri
+323;NewBedford;Massachusetts
+324;SpokaneValley;Washington
+325;Livonia;Michigan
+326;Roswell;Georgia
+327;Orem;Utah
+328;RioRancho;New Mexico
+329;Yuma;Arizona
+330;Lawrence;Kansas
+331;Yakima;Washington
+332;Quincy;Massachusetts
+333;Sandy;Utah
+334;Hesperia;California
+335;Carson;California
+336;BocaRaton;Florida
+337;SantaMonica;California
+338;SanMarcos;California
+339;Sunrise;Florida
+340;Plantation;Florida
+341;Lynn;Massachusetts
+342;MiamiBeach;Florida
+343;Westminster;California
+344;Longmont;Colorado
+345;SantaBarbara;California
+346;Redding;California
+347;Meridian;Idaho
+348;SanLeandro;California
+349;Greenville;North Carolina
+350;Chico;California
+351;Edmond;Oklahoma
+352;Nampa;Idaho
+353;Newton;Massachusetts
+354;FallRiver;Massachusetts
+355;Carmel;Indiana
+356;Fishers;Indiana
+357;Asheville;North Carolina
+358;Norwalk;Connecticut
+359;Waukegan;Illinois
+360;Deltona;Florida
+361;Hawthorne;California
+362;FortSmith;Arkansas
+363;Suffolk;Virginia
+364;SugarLand;Texas
+365;Livermore;California
+366;Nashua;New Hampshire
+367;Reading;Pennsylvania
+368;Concord;North Carolina
+369;Indio;California
+370;Whittier;California
+371;Kirkland;Washington
+372;Menifee;California
+373;NewportBeach;California
+374;Tracy;California
+375;CitrusHeights;California
+376;Bend;Oregon
+377;Bloomington;Minnesota
+378;Clifton;New Jersey
+379;Duluth;Minnesota
+380;Champaign;Illinois
+381;Chino;California
+382;Alhambra;California
+383;Ogden;Utah
+384;RedwoodCity;California
+385;Bellingham;Washington
+386;O'Fallon;Missouri
+387;Hoover;Alabama
+388;Danbury;Connecticut
+389;Edinburg;Texas
+390;Trenton;New Jersey
+391;SantaFe;New Mexico
+392;Bloomington;Indiana
+393;Cicero;Illinois
+394;Hemet;California
+395;JohnsCreek;Georgia
+396;Mission;Texas
+397;Troy;Michigan
+398;BuenaPark;California
+399;PalmCoast;Florida
+400;Fayetteville;Arkansas
+401;SiouxCity;Iowa
+402;LakeForest;California
+403;Merced;California
+404;Longview;Texas
+405;Bryan;Texas
+406;Westland;Michigan
+407;Warwick;Rhode Island
+408;Lakewood;California
+409;FarmingtonHills;Michigan
+410;MountPleasant;South Carolina
+411;Cranston;Rhode Island
+412;Largo;Florida
+413;Avondale;Arizona
+414;Tustin;California
+415;MountainView;California
+416;Napa;California
+417;Somerville;Massachusetts
+418;Lawrence;Massachusetts
+419;St.George;Utah
+420;Melbourne;Florida
+421;Parma;Ohio
+422;NewRochelle;New York
+423;Lynchburg;Virginia
+424;Medford;Oregon
+425;DeerfieldBeach;Florida
+426;Pleasanton;California
+427;BrooklynPark;Minnesota
+428;Goodyear;Arizona
+429;Kennewick;Washington
+430;Alameda;California
+431;Bellflower;California
+432;ChinoHills;California
+433;Bloomington;Illinois
+434;Springdale;Arkansas
+435;Racine;Wisconsin
+436;Hammond;Indiana
+437;Milpitas;California
+438;Gary;Indiana
+439;Scranton;Pennsylvania
+440;BaldwinPark;California
+441;Auburn;Washington
+442;St.Joseph;Missouri
+443;Pharr;Texas
+444;Upland;California
+445;Folsom;California
+446;Baytown;Texas
+447;SanRamon;California
+448;Camden;New Jersey
+449;LakeCharles;Louisiana
+450;Kalamazoo;Michigan
+451;ArlingtonHeights;Illinois
+452;Plymouth;Minnesota
+453;Evanston;Illinois
+454;Manteca;California
+455;Wyoming;Michigan
+456;Loveland;Colorado
+457;Perris;California
+458;Bethlehem;Pennsylvania
+459;Albany;Georgia
+460;Schaumburg;Illinois
+461;Gastonia;North Carolina
+462;UnionCity;California
+463;Bolingbrook;Illinois
+464;IowaCity;Iowa
+465;Layton;Utah
+466;Appleton;Wisconsin
+467;MissouriCity;Texas
+468;FortMyers;Florida
+469;BoyntonBeach;Florida
+470;Jonesboro;Arkansas
+471;RapidCity;South Dakota
+472;WarnerRobins;Georgia
+473;RochesterHills;Michigan
+474;Decatur;Illinois
+475;Southfield;Michigan
+476;NewBritain;Connecticut
+477;Franklin;Tennessee
+478;Turlock;California
+479;Temple;Texas
+480;AppleValley;California
+481;Lynwood;California
+482;Waukesha;Wisconsin
+483;Wilmington;Delaware
+484;Canton;Ohio
+485;Gulfport;Mississippi
+486;Pawtucket;Rhode Island
+487;Lauderhill;Florida
+488;RockHill;South Carolina
+489;FlowerMound;Texas
+490;Bismarck;North Dakota
+491;Lafayette;Indiana
+492;Passaic;New Jersey
+493;Redlands;California
+494;Missoula;Montana
+495;RanchoCordova;California
+496;NewBraunfels;Texas
+497;Flagstaff;Arizona
+498;Muncie;Indiana
+499;Weston;Florida
+500;Frederick;Maryland
+501;Pasco;Washington
+502;Pittsburg;California
+503;Palatine;Illinois
+504;NorthRichlandHills;Texas
+505;UnionCity;New Jersey
+506;Kissimmee;Florida
+507;WalnutCreek;California
+508;St.Charles;Missouri
+509;MountVernon;New York
+510;Conroe;Texas
+511;Dothan;Alabama
+512;Waterloo;Iowa
+513;MapleGrove;Minnesota
+514;RedondoBeach;California
+515;BossierCity;Louisiana
+516;YorbaLinda;California
+517;Woodbury;Minnesota
+518;EauClaire;Wisconsin
+519;Davis;California
+520;Camarillo;California
+521;Victoria;Texas
+522;Gaithersburg;Maryland
+523;Jacksonville;North Carolina
+524;SouthSanFrancisco;California
+525;St.Cloud;Minnesota
+526;Kenner;Louisiana
+527;Rockville;Maryland
+528;Jackson;Tennessee
+529;YubaCity;California
+530;Portland;Maine
+531;PaloAlto;California
+532;Marysville;Washington
+533;SouthJordan;Utah
+534;Oshkosh;Wisconsin
+535;NorthLittleRock;Arkansas
+536;Homestead;Florida
+537;Bayonne;New Jersey
+538;Eagan;Minnesota
+539;DelrayBeach;Florida
+540;JohnsonCity;Tennessee
+541;CedarPark;Texas
+542;LagunaNiguel;California
+543;Harlingen;Texas
+544;SanClemente;California
+545;Schenectady;New York
+546;Broomfield;Colorado
+547;Ames;Iowa
+548;Shawnee;Kansas
+549;Conway;Arkansas
+550;EastOrange;New Jersey
+551;Skokie;Illinois
+552;DaytonaBeach;Florida
+553;Tamarac;Florida
+554;Youngstown;Ohio
+555;Lodi;California
+556;Greenville;South Carolina
+557;Mansfield;Texas
+558;SantaCruz;California
+559;PicoRivera;California
+560;Madera;California
+561;Janesville;Wisconsin
+562;WestDesMoines;Iowa
+563;Montebello;California
+564;Georgetown;Texas
+565;Alpharetta;Georgia
+566;Lorain;Ohio
+567;BowlingGreen;Kentucky
+568;EdenPrairie;Minnesota
+569;Waltham;Massachusetts
+570;Cheyenne;Wyoming
+571;Rogers;Arkansas
+572;Encinitas;California
+573;Haverhill;Massachusetts
+574;Jupiter;Florida
+575;CouncilBluffs;Iowa
+576;Wellington;Florida
+577;NorthMiami;Florida
+578;Hamilton;Ohio
+579;NorthPort;Florida
+580;Tulare;California
+581;CoonRapids;Minnesota
+582;Buckeye;Arizona
+583;LaHabra;California
+584;Blaine;Minnesota
+585;Auburn;Alabama
+586;LakeElsinore;California
+587;Taylor;Michigan
+588;Burnsville;Minnesota
+589;MontereyPark;California
+590;Rocklin;California
+591;Utica;New York
+592;Malden;Massachusetts
+593;NationalCity;California
+594;Springfield;Oregon
+595;TerreHaute;Indiana
+596;Vineland;New Jersey
+597;SanMarcos;Texas
+598;Lakeville;Minnesota
+599;WestAllis;Wisconsin
+600;Redmond;Washington
+601;Cupertino;California
+602;Taylorsville;Utah
+603;Bristol;Connecticut
+604;Moore;Oklahoma
+605;Gardena;California
+606;Petaluma;California
+607;GrandJunction;Colorado
+608;Casper;Wyoming
+609;Rowlett;Texas
+610;LaMesa;California
+611;Meriden;Connecticut
+612;Pontiac;Michigan
+613;St.ClairShores;Michigan
+614;PortOrange;Florida
+615;Lakewood;Washington
+616;Springfield;Ohio
+617;GreatFalls;Montana
+618;ChapelHill;North Carolina
+619;HuntingtonPark;California
+620;Lancaster;Pennsylvania
+621;CoconutCreek;Florida
+622;IdahoFalls;Idaho
+623;SanRafael;California
+624;Noblesville;Indiana
+625;Marietta;Georgia
+626;Owensboro;Kentucky
+627;Eastvale;California
+628;RoyalOak;Michigan
+629;Brentwood;California
+630;Dubuque;Iowa
+631;Novi;Michigan
+632;DesPlaines;Illinois
+633;OrlandPark;Illinois
+634;Bartlett;Tennessee
+635;Woodland;California
+636;Lehi;Utah
+637;WhitePlains;New York
+638;Arcadia;California
+639;Ocala;Florida
+640;Sanford;Florida
+641;Bowie;Maryland
+642;Kokomo;Indiana
+643;Santee;California
+644;Dublin;California
+645;Medford;Massachusetts
+646;MidwestCity;Oklahoma
+647;Margate;Florida
+648;TinleyPark;Illinois
+649;Pflugerville;Texas
+650;NewBrunswick;New Jersey
+651;GrandForks;North Dakota
+652;FountainValley;California
+653;St.Peters;Missouri
+654;DiamondBar;California
+655;Taunton;Massachusetts
+656;OakLawn;Illinois
+657;Ankeny;Iowa
+658;Chicopee;Massachusetts
+659;Berwyn;Illinois
+660;Manhattan;Kansas
+661;Smyrna;Georgia
+662;DearbornHeights;Michigan
+663;Porterville;California
+664;Doral;Florida
+665;Hendersonville;Tennessee
+666;WeymouthTown;Massachusetts
+667;RockyMount;North Carolina
+668;Corvallis;Oregon
+669;Valdosta;Georgia
+670;Hanford;California
+671;CastleRock;Colorado
+672;Greenwood;Indiana
+673;Hempstead;New York
+674;Novato;California
+675;Kettering;Ohio
+676;Bellevue;Nebraska
+677;Shoreline;Washington
+678;Decatur;Alabama
+679;Paramount;California
+680;PortArthur;Texas
+681;Anderson;Indiana
+682;Sarasota;Florida
+683;WestHaven;Connecticut
+684;Rosemead;California
+685;Highland;California
+686;MountProspect;Illinois
+687;Colton;California
+688;CarsonCity;Nevada
+689;Pocatello;Idaho
+690;Bradenton;Florida
+691;Normal;Illinois
+692;Richland;Washington
+693;Euless;Texas
+694;BlueSprings;Missouri
+695;CathedralCity;California
+696;Elyria;Ohio
+697;Wheaton;Illinois
+698;CommerceCity;Colorado
+699;Hoboken;New Jersey
+700;Watsonville;California
+701;LakeHavasuCity;Arizona
+702;Revere;Massachusetts
+703;WestNewYork;New Jersey
+704;Yucaipa;California
+705;Gilroy;California
+706;Pensacola;Florida
+707;Kingsport;Tennessee
+708;PalmBeachGardens;Florida
+709;Delano;California
+710;WestSacramento;California
+711;Huntersville;North Carolina
+712;PerthAmboy;New Jersey
+713;Southaven;Mississippi
+714;Harrisonburg;Virginia
+715;Peabody;Massachusetts
+716;Placentia;California
+717;Lenexa;Kansas
+718;DeSoto;Texas
+719;Burlington;North Carolina
+720;Elkhart;Indiana
+721;LaCrosse;Wisconsin
+722;OakPark;Illinois
+723;Florissant;Missouri
+724;Sammamish;Washington
+725;Albany;Oregon
+726;HoffmanEstates;Illinois
+727;Milford;Connecticut
+728;Glendora;California
+729;Brookhaven;Georgia
+730;PalmDesert;California
+731;Joplin;Missouri
+732;Enid;Oklahoma
+733;BonitaSprings;Florida
+734;Caldwell;Idaho
+735;Minnetonka;Minnesota
+736;PinellasPark;Florida
+737;BattleCreek;Michigan
+738;CasaGrande;Arizona
+739;GrandIsland;Nebraska
+740;Grapevine;Texas
+741;Kentwood;Michigan
+742;Tigard;Oregon
+743;AppleValley;Minnesota
+744;Plainfield;New Jersey
+745;Leesburg;Virginia
+746;CoralGables;Florida
+747;Lakewood;Ohio
+748;Burien;Washington
+749;Logan;Utah
+750;Olympia;Washington
+751;AlisoViejo;California
+752;Galveston;Texas
+753;Poway;California
+754;Edina;Minnesota
+755;Cerritos;California
+756;Troy;New York
+757;Charleston;West Virginia
+758;DownersGrove;Illinois
+759;Azusa;California
+760;Methuen;Massachusetts
+761;Wilson;North Carolina
+762;Monroe;Louisiana
+763;Parker;Colorado
+764;LaMirada;California
+765;Minot;North Dakota
+766;Saginaw;Michigan
+767;Bedford;Texas
+768;RanchoSantaMargarita;California
+769;Cypress;California
+770;Murray;Utah
+771;CuyahogaFalls;Ohio
+772;Coeurd'Alene;Idaho
+773;Harrisburg;Pennsylvania
+774;Covina;California
+775;Stillwater;Oklahoma
+776;NiagaraFalls;New York
+777;Collierville;Tennessee
+778;Summerville;South Carolina
+779;Sheboygan;Wisconsin
+780;Middletown;Ohio
+781;Dunwoody;Georgia
+782;Huntington;West Virginia
+783;Maricopa;Arizona
+784;Roswell;New Mexico
+785;CedarHill;Texas
+786;EastLansing;Michigan
+787;Apopka;Florida
+788;Mishawaka;Indiana
+789;Portage;Michigan
+790;St.LouisPark;Minnesota
+791;Newark;Ohio
+792;Ceres;California
+793;Alexandria;Louisiana
+794;Chesterfield;Missouri
+795;Salina;Kansas
+796;Lawrence;Indiana
+797;Euclid;Ohio
+798;Roseville;Michigan
+799;TexasCity;Texas
+800;Wauwatosa;Wisconsin
+801;TwinFalls;Idaho
+802;Glenview;Illinois
+803;EastProvidence;Rhode Island
+804;PalmSprings;California
+805;SanLuisObispo;California
+806;Madison;Alabama
+807;Jeffersonville;Indiana
+808;SanJacinto;California
+809;Mentor;Ohio
+810;Mansfield;Ohio
+811;Hattiesburg;Mississippi
+812;Draper;Utah
+813;Middletown;Connecticut
+814;Wylie;Texas
+815;Columbus;Indiana
+816;Smyrna;Tennessee
+817;Charlottesville;Virginia
+818;Lincoln;California
+819;Lacey;Washington
+820;Littleton;Colorado
+821;Beavercreek;Ohio
+822;Kannapolis;North Carolina
+823;Everett;Massachusetts
+824;Binghamton;New York
+825;Elmhurst;Illinois
+826;Keller;Texas
+827;Biloxi;Mississippi
+828;Apex;North Carolina
+829;WestLafayette;Indiana
+830;Titusville;Florida
+831;Altoona;Pennsylvania
+832;Newark;California
+833;St.Cloud;Florida
+834;Dublin;Ohio
+835;ClevelandHeights;Ohio
+836;Sayreville;New Jersey
+837;CutlerBay;Florida
+838;Hackensack;New Jersey
+839;PineBluff;Arkansas
+840;Strongsville;Ohio
+841;Coachella;California
+842;Bentonville;Arkansas
+843;FortPierce;Florida
+844;Danville;California
+845;BarnstableTown;Massachusetts
+846;OaklandPark;Florida
+847;Attleboro;Massachusetts
+848;Blacksburg;Virginia
+849;HaltomCity;Texas
+850;Lompoc;California
+851;Urbandale;Iowa
+852;York;Pennsylvania
+853;NorthMiamiBeach;Florida
+854;ElCentro;California
+855;Cleveland;Tennessee
+856;Beaumont;California
+857;Lombard;Illinois
+858;Bountiful;Utah
+859;NorthLauderdale;Florida
+860;Burleson;Texas
+861;Ocoee;Florida
+862;OroValley;Arizona
+863;Bozeman;Montana
+864;SierraVista;Arizona
+865;Freeport;New York
+866;Pittsfield;Massachusetts
+867;DeKalb;Illinois
+868;SanBruno;California
+869;JeffersonCity;Missouri
+870;AltamonteSprings;Florida
+871;BellGardens;California
+872;MorganHill;California
+873;Bothell;Washington
+874;FondduLac;Wisconsin
+875;Farmington;New Mexico
+876;Salem;Massachusetts
+877;Fairfield;Ohio
+878;RanchoPalosVerdes;California
+879;Moline;Illinois
+880;Concord;New Hampshire
+881;Rockwall;Texas
+882;Plainfield;Illinois
+883;Burlington;Vermont
+884;RohnertPark;California
+885;Urbana;Illinois
+886;Midland;Michigan
+887;PrescottValley;Arizona
+888;StateCollege;Pennsylvania
+889;Kearny;New Jersey
+890;Danville;Virginia
+891;Belleville;Illinois
+892;Linden;New Jersey
+893;Moorhead;Minnesota
+894;Brea;California
+895;Riverton;Utah
+896;Prescott;Arizona
+897;TheColony;Texas
+898;Manassas;Virginia
+899;Brentwood;Tennessee
+900;Westfield;Massachusetts
+901;Hutchinson;Kansas
+902;Leominster;Massachusetts
+903;Bartlett;Illinois
+904;BuffaloGrove;Illinois
+905;Woonsocket;Rhode Island
+906;Edmonds;Washington
+907;Marana;Arizona
+908;Shelton;Connecticut
+909;CedarFalls;Iowa
+910;Beverly;Massachusetts
+911;Coppell;Texas
+912;Findlay;Ohio
+913;Campbell;California
+914;Mankato;Minnesota
+915;Covington;Kentucky
+916;PeachtreeCorners;Georgia
+917;OrmondBeach;Florida
+918;Huntsville;Texas
+919;Sumter;South Carolina
+920;Wilkes-Barre;Pennsylvania
+921;Quincy;Illinois
+922;LaPuente;California
+923;Holyoke;Massachusetts
+924;Sherman;Texas
+925;GooseCreek;South Carolina
+926;Maplewood;Minnesota
+927;Streamwood;Illinois
+928;Fitchburg;Massachusetts
+929;HiltonHeadIsland;South Carolina
+930;LaQuinta;California
+931;CrystalLake;Illinois
+932;Hagerstown;Maryland
+933;SanGabriel;California
+934;Hickory;North Carolina
+935;WinterGarden;Florida
+936;CarolStream;Illinois
+937;Warren;Ohio
+938;Calexico;California
+939;Florence;Alabama
+940;Shakopee;Minnesota
+941;Norwich;Connecticut
+942;Duncanville;Texas
+943;NewBerlin;Wisconsin
+944;Marlborough;Massachusetts
+945;Oakley;California
+946;Lancaster;Ohio
+947;Romeoville;Illinois
+948;CulverCity;California
+949;Greenacres;Florida
+950;Meridian;Mississippi
+951;Puyallup;Washington
+952;Woburn;Massachusetts
+953;Bremerton;Washington
+954;HallandaleBeach;Florida
+955;Clovis;New Mexico
+956;Annapolis;Maryland
+957;Weslaco;Texas
+958;CapeGirardeau;Missouri
+959;BullheadCity;Arizona
+960;Chelsea;Massachusetts
+961;GroveCity;Ohio
+962;AtlanticCity;New Jersey
+963;Pacifica;California
+964;Germantown;Tennessee
+965;Northglenn;Colorado
+966;Wausau;Wisconsin
+967;Hurst;Texas
+968;Stanton;California
+969;Lancaster;Texas
+970;Friendswood;Texas
+971;Gainesville;Georgia
+972;Montclair;California
+973;RockIsland;Illinois
+974;Oviedo;Florida
+975;Carpentersville;Illinois
+976;LakeOswego;Oregon
+977;Muskogee;Oklahoma
+978;Hobbs;New Mexico
+979;Muskegon;Michigan
+980;Westerville;Ohio
+981;LittleElm;Texas
+982;HanoverPark;Illinois
+983;PanamaCity;Florida
+984;Florence;South Carolina
+985;WakeForest;North Carolina
+986;HuberHeights;Ohio
+987;Martinez;California
+988;Wheeling;Illinois
+989;ApacheJunction;Arizona
+990;PleasantGrove;Utah
+991;Brookfield;Wisconsin
+992;Delaware;Ohio
+993;Roy;Utah
+994;ValleyStream;New York
+995;Schertz;Texas
+996;SpanishFork;Utah
+997;Keizer;Oregon
+998;Leander;Texas
+999;Lima;Ohio
+1000;Spartanburg;South Carolina
